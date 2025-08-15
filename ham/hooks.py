@@ -242,3 +242,12 @@ app_license = "mit"
 # 	"Logging DocType Name": 30  # days to retain logs
 # }
 
+
+fixtures = [
+    "DocType",
+    "ham.Units",
+    "ham.Utilities",
+    "ham.child_doc",  # Replace with actual names of your DocTypes
+    "ham.Buildings",
+    "ham.HomeOwner"
+]
